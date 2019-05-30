@@ -1,0 +1,23 @@
+main {
+  padding-left: 40px;
+}
+
+input{
+	margin-right:20px;
+}
+
+html, body {
+  height: 100%;
+  color: #61DAFB;
+  background: #2D2D2D;
+}
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
